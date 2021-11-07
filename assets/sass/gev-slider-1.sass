@@ -1,0 +1,27 @@
+.gev-slider-1
+    font-size: 20px
+    &__card
+        background-color: white
+        padding: 1em 3em
+        padding-bottom: 4em
+        display: flex
+        flex-flow: row nowrap
+        align-items: center
+        border-radius: 45px
+        border-top-right-radius: 0px
+        &__img
+            width: 100px
+            margin-right: 1.2em
+    .gev-arrow-next
+        right: 4em
+    .gev-arrow-prev
+        left: 4em
+
+@media (max-width: 767.98px)
+    .gev-slider-1
+        &__card
+            flex-flow: row wrap
+            justify-content: center
+            padding-bottom: 3em
+            &__img
+                margin-right: 0

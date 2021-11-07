@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #33cccc;
+}
+
+.contenedor {
+  width: 90%;
+  max-width: 1290px;
+  margin: auto;
+  padding: 50px 0;
+}
+
+/*# sourceMappingURL=reset.css.map */

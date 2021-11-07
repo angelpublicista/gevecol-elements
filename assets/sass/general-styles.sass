@@ -1,0 +1,41 @@
+.gev-slick-theme
+    position: relative
+    &__item
+        padding: 20px
+    .gev-custom-arrow
+        position: absolute
+        width: 25px
+        height: 25px
+        top: calc( 50% - 30px )
+        background-color: #22D0A4
+        color: white
+        font-size: 10px
+        display: flex
+        justify-content: center
+        align-items: center
+        border-radius: 50%
+        z-index: 1
+        box-sizing: border-box
+        line-height: 0px
+        cursor: pointer
+    .slick-dots
+        position: absolute
+        bottom: 2em
+        display: flex
+        width: 100%
+        text-align: center
+        justify-content: center
+        align-items: center
+        li
+            list-style: none
+            width: 14px
+            height: 14px
+            margin: 0 .3em
+            border-radius: 50%
+            background-color: transparent
+            border: 2px solid #22D0A4
+            cursor: pointer
+            &.slick-active
+                background-color: #22D0A4
+            button
+                display: none
