@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <g id="icon-por-que" transform="translate(-95)">
+    <g id="Grupo_21065" data-name="Grupo 21065">
+      <path id="Trazado_29110" data-name="Trazado 29110" d="M148.518,36.1a12.345,12.345,0,0,0,12.344,12.344" fill="none" stroke="#21d1a3" stroke-width="4"/>
+      <path id="Trazado_29111" data-name="Trazado 29111" d="M122.939,59.488h-18.8v-42.2l8.677-8.142h10.123" fill="#21d1a3"/>
+      <path id="Trazado_29112" data-name="Trazado 29112" d="M104.138,17.307H112.3V9.145" fill="#fff" stroke="#001b66" stroke-width="3"/>
+      <path id="Trazado_29113" data-name="Trazado 29113" d="M133.28,59.489H104.14v-42.2l8.14-8.15h27.15v36.12" fill="none" stroke="#001b66" stroke-width="3"/>
+      <line id="Línea_3932" data-name="Línea 3932" x2="24.148" transform="translate(108.887 24.545)" fill="none" stroke="#001b66" stroke-width="3"/>
+      <line id="Línea_3933" data-name="Línea 3933" x1="24.146" transform="translate(108.887 33.496)" fill="none" stroke="#001b66" stroke-width="3"/>
+      <line id="Línea_3934" data-name="Línea 3934" x2="24.148" transform="translate(108.887 42.451)" fill="none" stroke="#001b66" stroke-width="3"/>
+      <circle id="Elipse_2962" data-name="Elipse 2962" cx="4.78" cy="4.78" r="4.78" transform="translate(140.111 48.206)" fill="none" stroke="#001b66" stroke-width="3"/>
+      <path id="Trazado_29114" data-name="Trazado 29114" d="M144.891,40.11a12.926,12.926,0,0,0-2.133.177l-1.8,4.09a9.43,9.43,0,0,0-1.548.9l-4.445-.483a12.838,12.838,0,0,0-2.135,3.692l2.643,3.611c-.027.294-.042.592-.042.893s.015.6.042.893l-2.643,3.611a12.838,12.838,0,0,0,2.135,3.692l4.445-.483a9.43,9.43,0,0,0,1.548.895l1.8,4.091a12.935,12.935,0,0,0,4.265,0l1.8-4.091a9.481,9.481,0,0,0,1.549-.895l4.445.483a12.884,12.884,0,0,0,2.135-3.692l-2.644-3.611q.042-.441.042-.893t-.042-.893" fill="none" stroke="#001b66" stroke-width="3"/>
+    </g>
+    <rect id="Rectángulo_6328" data-name="Rectángulo 6328" width="75" height="75" transform="translate(95)" fill="none"/>
+  </g>
+</svg>

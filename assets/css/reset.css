@@ -28,6 +28,26 @@
   font-style: italic;
   src: url("https://geniorama.site/demo/gevecol/wp-content/uploads/2021/11/FSLucasPro-MedItalic.ttf");
 }
+@font-face {
+  font-family: "FS Lucas Pro SemiBd";
+  font-style: normal;
+  src: url("https://geniorama.site/demo/gevecol/wp-content/uploads/2021/11/FSLucasProSemiBd.woff");
+}
+@font-face {
+  font-family: "FS Lucas Pro SemiBold Italic";
+  font-style: italic;
+  src: url("https://geniorama.site/demo/gevecol/wp-content/uploads/2021/11/FSLucasPro-SemiBdItalic.ttf");
+}
+@font-face {
+  font-family: "FS Elliot Pro";
+  font-weight: 400;
+  src: url("https://geniorama.site/demo/gevecol/wp-content/uploads/2021/11/FS-Elliot-Pro.ttf");
+}
+@font-face {
+  font-family: "FS Elliot Pro";
+  font-weight: 700;
+  src: url("https://geniorama.site/demo/gevecol/wp-content/uploads/2021/11/FSElliotPro-Bold.ttf");
+}
 * {
   margin: 0;
   padding: 0;

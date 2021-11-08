@@ -1,0 +1,77 @@
+.gev-slider-fwhat
+    padding: 1em
+    .gev-arrow-next
+        right: 0
+    .gev-arrow-prev
+        left: 0
+    .slick-dots
+        bottom: -20px
+        left: 0
+        right: 0
+    &__card
+        text-align: center
+        box-sizing: border-box
+        &__fig
+            background-color: white
+            position: relative
+            margin: 0
+            padding: 3em
+            display: flex
+            justify-content: center
+            align-items: center
+            flex-direction: column
+            height: 300px
+            &__img
+                width: 75px
+                transition: all .3s
+            &__title
+                font-family: 'FS Lucas Pro SemiBd', sans-serif
+                font-size: 19px
+                color: #001C76
+            &__cap
+                opacity: 0
+                transform: scale(0)
+                padding: 2em
+                box-sizing: border-box
+                display: flex
+                justify-content: center
+                align-items: center
+                flex-direction: column
+                transition: all .6s
+                background-color: #00E8B1
+                position: absolute
+                top: 0
+                left: 0
+                width: 100%
+                height: 100%
+                &__title
+                    font-family: 'FS Lucas Pro SemiBd', sans-serif
+                    font-size: 19px
+                    color: #001C76
+                &__desc
+                    font-family: 'IBM Plex Sans Hebrew', sans-serif
+                    color: black
+                    margin: .9em 0
+                    font-style: 300
+                    font-size: 20px
+                &__link
+                    color: white
+                    text-decoration: none
+                    font-family: 'FS Elliot Pro'
+                    font-weight: 700
+                    font-size: 20px
+                    &__text
+                        margin-right: 10px
+                    i
+                        font-size: 15px
+        &:hover
+            .gev-slider-fwhat__card__fig__cap
+                opacity: 1
+                transform: scale(1)
+            .gev-slider-fwhat__card__fig__img
+                transform: scale(0)
+
+@media (max-width: 991.98px)
+    .gev-slider-fwhat__card__fig__cap
+        opacity: 1
+        transform: scale(1)
