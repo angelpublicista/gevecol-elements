@@ -8,6 +8,26 @@
   font-weight: 400;
   src: url("https://geniorama.site/demo/gevecol/wp-content/uploads/2021/11/IBMPlexSansHebrew-Regular.ttf");
 }
+@font-face {
+  font-family: "FS Lucas Pro";
+  font-weight: 400;
+  src: url("https://geniorama.site/demo/gevecol/wp-content/uploads/2021/11/FSLucasPro-Regular.ttf");
+}
+@font-face {
+  font-family: "FS Lucas Pro";
+  font-weight: 700;
+  src: url("https://geniorama.site/demo/gevecol/wp-content/uploads/2021/11/FSLucasPro-Bold.ttf");
+}
+@font-face {
+  font-family: "FS Lucas Pro Med";
+  font-style: normal;
+  src: url("https://geniorama.site/demo/gevecol/wp-content/uploads/2021/11/FSLucasPro-Med.ttf");
+}
+@font-face {
+  font-family: "FS Lucas Pro Med";
+  font-style: italic;
+  src: url("https://geniorama.site/demo/gevecol/wp-content/uploads/2021/11/FSLucasPro-MedItalic.ttf");
+}
 * {
   margin: 0;
   padding: 0;
@@ -15,7 +35,7 @@
 }
 
 body {
-  background-color: #33cccc;
+  background-color: #f8f8f8;
 }
 
 .contenedor {
