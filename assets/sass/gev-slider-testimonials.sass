@@ -1,0 +1,68 @@
+.gev-slider-testimonials
+    padding: 1em
+    .gev-arrow-next
+        right: 0
+    .gev-arrow-prev
+        left: 0
+    .slick-dots
+        bottom: 0
+        left: 0
+        right: 0
+    &__card
+        border-radius: 10px
+        overflow: hidden
+        text-align: center
+        min-height: 550px
+        &__fig
+            position: relative
+            margin: 0
+            padding: 0
+            overflow: hidden
+            &__img
+                width: 100%
+                vertical-align: top
+                object-fit: cover
+                height: 254px
+            &__cap
+                position: absolute
+                bottom: 0
+                left: 0
+                background-color: rgba(#000 , .5)
+                width: 100%
+                color: white
+                padding: 1em 1.5em
+                min-height: 100px
+                &__name
+                    font-family: 'FS Lucas Pro', sans-serif
+                    display: block
+                    font-weight: bold
+                    font-size: 20px
+                &__pos
+                    font-family: 'IBM Plex Sans Hebrew', sans-serif
+                    display: block
+                    font-size: 17px
+        &.card-blue
+            background-color: #0ACADC
+        &.card-green
+            background-color: #22D0A4
+        &__text
+            padding: 1.5em
+            font-family: 'FS Lucas Pro Med', sans-serif
+            color: white
+            font-size: 18px
+            font-style: italic
+        &__podcast
+            padding: 2em
+
+@media (max-width: 575.98px)
+    .gev-slider-testimonials
+        .gev-slick-theme__item
+            padding: 1em
+        &__card
+            &__fig
+                &__img
+                    height: 200px
+                &__cap
+                    min-height: auto
+    .gev-slider-testimonials__card__podcast
+        padding: 1em

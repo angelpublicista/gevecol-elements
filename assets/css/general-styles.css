@@ -1,5 +1,6 @@
 .gev-slick-theme {
   position: relative;
+  box-sizing: border-box;
 }
 .gev-slick-theme__item {
   padding: 20px;
@@ -20,6 +21,10 @@
   box-sizing: border-box;
   line-height: 0px;
   cursor: pointer;
+}
+.gev-slick-theme .gev-custom-arrow.slick-disabled {
+  background-color: #E4E4E4;
+  cursor: no-drop;
 }
 .gev-slick-theme .slick-dots {
   position: absolute;
