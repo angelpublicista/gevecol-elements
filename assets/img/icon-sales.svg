@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Grupo_21086" data-name="Grupo 21086" transform="translate(0 -871.5)">
+    <path id="Trazado_29172" data-name="Trazado 29172" d="M77.257,918.751V905.634H64.139" fill="none" stroke="#21d1a3" stroke-width="4"/>
+    <rect id="Rectángulo_6339" data-name="Rectángulo 6339" width="85" height="85" transform="translate(0 871.5)" fill="none"/>
+    <rect id="Rectángulo_6340" data-name="Rectángulo 6340" width="16.02" height="40.682" transform="translate(46.061 905.492)" fill="#21d1a3"/>
+    <path id="Trazado_29173" data-name="Trazado 29173" d="M62.08,905.492H46.061v40.682h31.2V921.036" fill="none" stroke="#001b66" stroke-width="3"/>
+    <line id="Línea_3960" data-name="Línea 3960" x2="9.275" transform="translate(50.276 912.062)" fill="none" stroke="#001b66" stroke-width="3"/>
+    <line id="Línea_3961" data-name="Línea 3961" x2="9.275" transform="translate(63.767 912.062)" fill="none" stroke="#001b66" stroke-width="3"/>
+    <line id="Línea_3962" data-name="Línea 3962" x2="9.275" transform="translate(50.276 920.072)" fill="none" stroke="#001b66" stroke-width="3"/>
+    <line id="Línea_3963" data-name="Línea 3963" x2="9.275" transform="translate(63.767 920.072)" fill="none" stroke="#001b66" stroke-width="3"/>
+    <line id="Línea_3964" data-name="Línea 3964" x2="9.275" transform="translate(50.276 928.082)" fill="none" stroke="#001b66" stroke-width="3"/>
+    <line id="Línea_3965" data-name="Línea 3965" x2="9.275" transform="translate(63.767 928.082)" fill="none" stroke="#001b66" stroke-width="3"/>
+    <rect id="Rectángulo_6341" data-name="Rectángulo 6341" width="11.804" height="12.576" transform="translate(55.335 933.598)" fill="#fff" stroke="#001b66" stroke-width="3"/>
+    <g id="Grupo_21086-2" data-name="Grupo 21086">
+      <path id="Trazado_29174" data-name="Trazado 29174" d="M38.791,889.756h-.005A13.338,13.338,0,0,1,20.98,884.7a10.85,10.85,0,0,1,17.811,5.054Z" fill="#02d1a3"/>
+      <rect id="Rectángulo_6342" data-name="Rectángulo 6342" width="21.704" height="27.548" rx="10.852" transform="translate(17.489 881.826)" fill="none" stroke="#001b66" stroke-width="3"/>
+      <path id="Trazado_29175" data-name="Trazado 29175" d="M5.386,941.5V926.977A11.814,11.814,0,0,1,17.2,915.163h3.125a2.783,2.783,0,0,0,2.783-2.783v-4.353" fill="none" stroke="#001b66" stroke-width="3"/>
+      <path id="Trazado_29176" data-name="Trazado 29176" d="M46.061,917.161a11.8,11.8,0,0,0-6.577-2H36.356a2.785,2.785,0,0,1-2.782-2.783v-4.35" fill="none" stroke="#001b66" stroke-width="3"/>
+      <path id="Trazado_29177" data-name="Trazado 29177" d="M33.575,909.96v5.233a5.233,5.233,0,0,1-5.233,5.233h0a5.233,5.233,0,0,1-5.233-5.233V909.96" fill="none" stroke="#001b66" stroke-width="3"/>
+      <path id="Trazado_29178" data-name="Trazado 29178" d="M20.979,884.7a13.339,13.339,0,0,0,17.805,5.055" fill="none" stroke="#001b66" stroke-width="3"/>
+      <line id="Línea_3966" data-name="Línea 3966" y1="10.672" transform="translate(17.487 930.818)" fill="none" stroke="#001b66" stroke-width="3"/>
+      <line id="Línea_3967" data-name="Línea 3967" y1="3.56" transform="translate(17.487 930.818)" fill="none" stroke="#001b66" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Línea_3968" data-name="Línea 3968" y1="10.672" transform="translate(39.196 930.818)" fill="none" stroke="#001b66" stroke-width="3"/>
+      <line id="Línea_3969" data-name="Línea 3969" y1="3.56" transform="translate(39.196 930.818)" fill="none" stroke="#001b66" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
